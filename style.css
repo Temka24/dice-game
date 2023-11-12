@@ -2,18 +2,18 @@ body{
     background-color: black;
     color: white;
 }
-.dice{
+#dice{
     height: 50px;
     width: 50px;
-    margin-left: 700px;
+    margin-left: 300px;
     display: block;
 }
-#name-0{
+#name-1{
     margin-left: 300px;
     margin-top: 150px;
     font-size:40px;
 }
-#name-1{
+#name-2{
     margin-left: 300px;
     margin-top: 200px;
     font-size: 40px;
@@ -21,8 +21,8 @@ body{
 .q{
     font-size: 40px;
 }
-.btn-roll:hover{ 
-    font-size: 20px;
-    background-color: aquamarine;
+#btn-roll:hover{ 
+    font-size: 13px;
+    background-color: rgb(50, 32, 101);
 
 }
