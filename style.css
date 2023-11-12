@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+}
+.dice{
+    height: 50px;
+    width: 50px;
+    margin-left: 700px;
+    display: block;
+}
+#name-0{
+    margin-left: 300px;
+    margin-top: 150px;
+    font-size:40px;
+}
+#name-1{
+    margin-left: 300px;
+    margin-top: 200px;
+    font-size: 40px;
+}
+.q{
+    font-size: 40px;
+}
+.btn-roll:hover{ 
+    font-size: 20px;
+    background-color: aquamarine;
+
+}
