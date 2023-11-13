@@ -3,26 +3,46 @@ body{
     color: white;
 }
 #dice{
-    height: 50px;
-    width: 50px;
-    margin-left: 300px;
-    display: block;
+    height: 140px;
+    width: 140px;
+    margin-left: 580px;
+    margin-top: 130px;
 }
 #name-1{
     margin-left: 300px;
-    margin-top: 150px;
+    margin-top: 1px;
     font-size:40px;
 }
 #name-2{
     margin-left: 300px;
-    margin-top: 200px;
+    margin-top: 130px;
     font-size: 40px;
 }
 .q{
     font-size: 40px;
 }
-#btn-roll:hover{ 
+#btn-roll:active{ 
     font-size: 13px;
     background-color: rgb(50, 32, 101);
+}
+.Player-1-pannel{
+    background-color: brown;
 
+}
+.Player-2-pannel{
+    background-color: blue;
+}
+button{
+    height: 50px;
+    width: 70px;
+    border-radius: 30%;
+    background-color: rgb(23, 182, 182)
+}
+#btn-new{
+    margin-left: 10px;
+}
+h2{
+    color: rgb(151, 14, 178);
+    text-align: center;
+    text-shadow: chartreuse;
 }
